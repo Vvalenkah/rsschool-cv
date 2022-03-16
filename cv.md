@@ -1,6 +1,6 @@
 # **Ivan Pimenau**
 
-![avatar] (https://sun9-23.userapi.com/impf/k5a0JGNNULcysinqMVedzMSgrCA_DPL-1YYEUw/g6-5tDERO3g.jpg?size=1440x2160&quality=96&sign=f29ea01afd715028b023c19f2e13c63a&type=album)
+![avatar](https://sun9-23.userapi.com/impf/k5a0JGNNULcysinqMVedzMSgrCA_DPL-1YYEUw/g6-5tDERO3g.jpg?size=1440x2160&quality=96&sign=f29ea01afd715028b023c19f2e13c63a&type=album)
 
 ### **Contacts:**
 
@@ -46,5 +46,5 @@ Attentive, executive, positive person. I do my tasks responsibly and quickly lea
 ```
 
 ### **My projects:**
-- [Memory game] (https://rolling-scopes-school.github.io/vvalenkah-JSFEPRESCHOOL/Projects/MemoryGame/)
-- [Audio player] (https://rolling-scopes-school.github.io/vvalenkah-JSFEPRESCHOOL/AudioPlayer/)
+- [Memory game](https://rolling-scopes-school.github.io/vvalenkah-JSFEPRESCHOOL/Projects/MemoryGame/)
+- [Audio player](https://rolling-scopes-school.github.io/vvalenkah-JSFEPRESCHOOL/AudioPlayer/)

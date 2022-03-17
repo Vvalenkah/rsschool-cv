@@ -9,7 +9,6 @@
 - Discord nickname: Vvalenkah
 
 ### **Summary**
-
 Attentive, executive, positive person. I do my tasks responsibly and quickly learn new information. The ability to explain the problem in a clear and accessible way is one of my strengths. I have no problems communicating in English :)
 
 ### **Training/ Courses**:
